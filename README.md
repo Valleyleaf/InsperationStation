@@ -7,7 +7,7 @@ Local host app for storing images, adding meta data and displaying images in a g
 - Build Stand alone app that supports multible platforms.
 - Better understand file manipulation.
 
-  ## Steps
+## Steps
 - Pick Stack
 - Find good learning path for stand-alone app development.
 - Build Basic UI
