@@ -8,11 +8,11 @@ Local host app for storing images, adding meta data and displaying images in a g
 - Better understand file manipulation.
 
   ## Steps
-  - Pick Stack
-  - Find good learning path for stand-alone app development.
-  - Build Basic UI
-  - Build file management system
-  - Build stand alone app framework
+- Pick Stack
+- Find good learning path for stand-alone app development.
+- Build Basic UI
+- Build file management system
+- Build stand alone app framework
  
   ## License
 
